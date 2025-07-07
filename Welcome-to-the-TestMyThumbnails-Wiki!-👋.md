@@ -14,8 +14,9 @@ Common questions and answers about using and managing the platform.
 ### 🚀 [Product Features](Product-Features)
 Details on how core features work and how to configure them.
 
-- [Reports](Product-Features-Notifications)
-- [Notifications](Product-Features-Reports)
+- [Research](Product-Features-Research)
+- [Create](Product-Features-Create)
+- [Test](Product-Features-Test)
 
 ### 🛠 Developer Resources
 (Coming soon) Guides for contributing, deployment, and architecture.
