@@ -1,6 +1,4 @@
-# Wiki Navigation
-
-[Home](Home)
+# [Home](Home)
 
 ## [FAQ](FAQ)
 - Troubleshooting
