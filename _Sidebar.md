@@ -6,5 +6,5 @@
   - [Deployment Errors](FAQ/Troubleshooting/Deployment%20Errors)
 
 ## [Product Features](wiki/Product-Features)
-- [Reports](Product%20Features/Reports)
-- [Notifications](Product%20Features/Notifications)
+- [Reports](wiki/Product-Features-Notifications)
+- [Notifications](wiki/Product-Features-Reports)
