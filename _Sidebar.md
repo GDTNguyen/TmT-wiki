@@ -1,4 +1,4 @@
-# [Home](Home)
+# [Home](Welcome-to-the-TestMyThumbnails-Wiki!-👋)
 
 ## [FAQ](FAQ)
 - Troubleshooting
