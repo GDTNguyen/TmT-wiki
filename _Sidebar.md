@@ -1,7 +1,6 @@
 # Wiki Navigation
 
 ## FAQ
-- [General](FAQ-General)
 - Troubleshooting
   - [Login Issues](FAQ/Troubleshooting/Login%20Issues)
   - [Deployment Errors](FAQ/Troubleshooting/Deployment%20Errors)
