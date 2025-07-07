@@ -6,15 +6,14 @@ This wiki serves as the central hub for documentation, FAQs, troubleshooting, an
 
 ## 📚 Sections
 
-### 🧠 FAQ
+### 🧠 [FAQ](FAQ)
 Common questions and answers about using and managing the platform.
 
-- [General](FAQ/General)
 - [Troubleshooting](FAQ/Troubleshooting)
   - [Login Issues](FAQ-Trouble-Shooting-Login-Issues)
   - [Deployment Errors](FAQ-Trouble-Shooting-Deployment-Errors)
 
-### 🚀 Product Features
+### 🚀 [Product Features](Product Features)
 Details on how core features work and how to configure them.
 
 - [Reports](Product-Features-Notifications)
