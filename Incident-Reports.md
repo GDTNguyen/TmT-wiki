@@ -1,1 +1,0 @@
-Welcome to documentation and record keeping for incident reports!
