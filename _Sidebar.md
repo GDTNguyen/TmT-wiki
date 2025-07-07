@@ -7,5 +7,5 @@
   - [Deployment Errors](FAQ/Troubleshooting/Deployment%20Errors)
 
 ## Product Features
-- [Reports](Product Features/Reports)
-- [Notifications](Product Features/Notifications)
+- [Reports](Product%20Features/Reports)
+- [Notifications](Product%20Features/Notifications)
