@@ -1,5 +1,7 @@
 # Wiki Navigation
 
+[Home](Home)
+
 ## [FAQ](FAQ)
 - Troubleshooting
   - [Login Issues](FAQ-Trouble-Shooting-Login-Issues)
