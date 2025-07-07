@@ -13,7 +13,7 @@ Common questions and answers about using and managing the platform.
   - [Login Issues](FAQ-Trouble-Shooting-Login-Issues)
   - [Deployment Errors](FAQ-Trouble-Shooting-Deployment-Errors)
 
-### 🚀 [Product Features](Product Features)
+### 🚀 [Product Features](Product-Features)
 Details on how core features work and how to configure them.
 
 - [Reports](Product-Features-Notifications)
