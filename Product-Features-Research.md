@@ -1,5 +1,3 @@
-## Research
-
 The **Research** feature helps you improve your video thumbnails and titles by leveraging AI-driven insights and data from millions of existing thumbnails.
 
 ### How It Works
