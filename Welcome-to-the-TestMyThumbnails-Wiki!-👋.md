@@ -7,7 +7,7 @@ This wiki serves as the central hub for documentation, FAQs, troubleshooting, an
 ### 🧠 [FAQ](FAQ)
 Common questions and answers about using and managing the platform.
 
-- [Troubleshooting](FAQ/Troubleshooting)
+- Troubleshooting
   - [Login Issues](FAQ-Trouble-Shooting-Login-Issues)
   - [Deployment Errors](FAQ-Trouble-Shooting-Deployment-Errors)
 
