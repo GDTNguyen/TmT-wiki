@@ -3,8 +3,8 @@
 ## FAQ
 - [General](FAQ/General)
 - Troubleshooting
-  - [Login Issues](FAQ/Troubleshooting/Login Issues)
-  - [Deployment Errors](FAQ/Troubleshooting/Deployment Errors)
+- [Login Issues](FAQ/Troubleshooting/Login Issues)
+- [Deployment Errors](FAQ/Troubleshooting/Deployment Errors)
 
 ## Product Features
 - [Reports](Product Features/Reports)
