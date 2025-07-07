@@ -1,2 +1,1 @@
 Incident reports
-FAQs
