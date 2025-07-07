@@ -4,7 +4,7 @@
 - [General](FAQ/General)
 - Troubleshooting
 - [Login Issues](FAQ/Troubleshooting)
-- [Deployment Errors](FAQ/Troubleshooting/Deployment Errors)
+- [Deployment Errors](FAQ/Troubleshooting/'Deployment Errors')
 
 ## Product Features
 - [Reports](Product Features/Reports)
