@@ -6,5 +6,6 @@
   - [Deployment Errors](FAQ-Trouble-Shooting-Deployment-Errors)
 
 ## [Product Features](Product-Features)
-- [Reports](Product-Features-Notifications)
-- [Notifications](Product-Features-Reports)
+- [Research](Product-Features-Research)
+- [Create](Product-Features-Create)
+- [Test](Product-Features-Test)
