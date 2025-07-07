@@ -1,5 +1,3 @@
-# Features of TestMyThumbnails.com
-
 **TestMyThumbnails.com** offers three core features—**Test**, **Create**, and **Research**—designed to empower YouTube creators to optimize their video thumbnails and titles for maximum engagement and performance.
 
 ## Test
