@@ -1,5 +1,3 @@
-# Welcome to the TestMyThumbnails Wiki! 👋
-
 This wiki serves as the central hub for documentation, FAQs, troubleshooting, and internal processes for the **TestMyThumbnails** project.
 
 ---
