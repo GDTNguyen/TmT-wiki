@@ -1,0 +1,1 @@
+Welcome to documentation and record keeping for support logs!
