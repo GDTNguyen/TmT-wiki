@@ -1,1 +1,2 @@
-Troubleshooting
+Incident reports
+FAQs
