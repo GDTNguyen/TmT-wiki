@@ -2,7 +2,7 @@
 
 ## FAQ
 - Troubleshooting
-  - [Login Issues](FAQ/Troubleshooting/Login%20Issues)
+  - [Login Issues](wiki/FAQ-Trouble-Shooting-Login-Issues)
   - [Deployment Errors](FAQ/Troubleshooting/Deployment%20Errors)
 
 ## Product Features
